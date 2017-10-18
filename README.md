@@ -8,7 +8,7 @@ available phantomjs official example https://github.com/ariya/phantomjs/blob/mas
 ## Requirements
 Phantomjs
 
-##usage
+## usage
 
 ```
     phantomjs rssg.js {url} [output format] [clipping]
